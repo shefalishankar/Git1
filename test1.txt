@@ -1,5 +1,5 @@
 Testing
-test from Intellij MAc, Eclipse
+test from Intellij MAc, Eclipse, VS Code
 #include<stdio.h>
 void main(){
 print("hello testing);
