@@ -1,5 +1,5 @@
 Testing..
-test from IntelliJ, Eclipse, VS Code, Git Desktop
+test from IntelliJ, Eclipse, VS Code, Git Desktop, CLI
 #include<stdio.h>
 void main(){
 print("hello testing");
