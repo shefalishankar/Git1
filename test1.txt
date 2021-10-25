@@ -1,6 +1,7 @@
 Testing..
 test from IntelliJ, Eclipse, VS Code, Git Desktop, CLI
+from windows
 #include<stdio.h>
 void main(){
-print("hello testing");
+print("hello testing CLI");
 }
