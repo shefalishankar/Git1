@@ -1,7 +1,7 @@
-Testing GIT push...
+Testing GIT push..
 test from IntelliJ, Eclipse, VS Code, Git Desktop, CLI
 from windows
 #include<stdio.h>
 void main(){
-print("hello testing eclipse");
+print("hello testing. ");
 }
